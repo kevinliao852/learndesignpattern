@@ -1,0 +1,18 @@
+{
+  "name": "learningdesignpattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "dev": "nodemon dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "nodemon": "^2.0.7",
+    "typescript": "^4.2.3"
+  }
+}
