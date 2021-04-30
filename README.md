@@ -5,3 +5,13 @@
 ## Adapter
 
 ## Facade
+
+## Bridge
+
+## Factory Method
+
+## Observer
+
+## State
+
+## Abstract Factory
