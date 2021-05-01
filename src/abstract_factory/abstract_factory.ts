@@ -86,5 +86,5 @@ export function abstractFactoryMain() {
 
     productType = "product A"
     product = factory.getProduct(productType)
-    console.log(product.productInfo()
+    console.log(product.productInfo())
 }

@@ -15,3 +15,11 @@
 ## State
 
 ## Abstract Factory
+
+## Strategy
+
+## Composite
+
+## Builder
+
+## Proxy
