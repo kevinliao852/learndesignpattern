@@ -15,3 +15,5 @@
 ## State
 
 ## Abstract Factory
+
+## Strategy
