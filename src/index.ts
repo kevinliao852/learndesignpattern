@@ -10,6 +10,7 @@ import {stateMain} from './state/state';
 import {bridgeMain} from './bridge/bridge';
 import { abstractFactoryMain } from './abstract_factory/abstract_factory'
 import { strategyMain } from './strategy/strategy'
+import { compositeMain } from './composite/composite'
 
 console.log(new PrintStringToIntegerAdapter(new PrintString('')).printData());
 
@@ -30,3 +31,6 @@ abstractFactoryMain();
 
 // strategy
 strategyMain();
+
+// composite
+compositeMain();

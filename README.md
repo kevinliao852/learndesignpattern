@@ -17,3 +17,5 @@
 ## Abstract Factory
 
 ## Strategy
+
+## Composite
