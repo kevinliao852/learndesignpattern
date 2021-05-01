@@ -11,6 +11,7 @@ import {bridgeMain} from './bridge/bridge';
 import { abstractFactoryMain } from './abstract_factory/abstract_factory'
 import { strategyMain } from './strategy/strategy'
 import { compositeMain } from './composite/composite'
+import { builderMain } from './builder/builder'
 
 console.log(new PrintStringToIntegerAdapter(new PrintString('')).printData());
 
@@ -34,3 +35,6 @@ strategyMain();
 
 // composite
 compositeMain();
+
+// builder
+builderMain();
